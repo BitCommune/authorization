@@ -1,0 +1,2 @@
+# authorization
+Authorization for BitCommune
